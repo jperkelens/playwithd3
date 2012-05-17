@@ -1,4 +1,4 @@
-var data = [4, 8, 15, 16, 23, 42, 420]
+var data = [4, 8, 15, 16, 23, 42, 100, 150, 30]
 
 var hScale = d3.scale.linear()
   .domain([0, d3.max(data)])
